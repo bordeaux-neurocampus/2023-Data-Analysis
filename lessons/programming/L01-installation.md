@@ -1,4 +1,3 @@
-[Computational Neuroscience Crash Course (2019)](https://github.com/rougier/NeuroComp-Bordeaux-2019) — Arthur Leblois (CNRS) & Nicolas P. Rougier (Inria)<br/>
 
 # Installation
 
