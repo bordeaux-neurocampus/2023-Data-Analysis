@@ -21,11 +21,11 @@ Welcome to the course!
 
 - General Introduction
 - [Installation](lessons/programming/L01-installation.md) setup
-- [Introduction](lessons/programming/L01-introduction-to-python.md) to Python
+- [Introduction](lessons/programming/L01-introduction.md) to Python
 
 ### Homework
 
-- Finish [installation](lessons/programming/L01-installation.md) & [introduction](lessons/programming/L01-introduction-to-python.md)
+- Finish [installation](lessons/programming/L01-installation.md) & [introduction](lessons/programming/L01-introduction.md)
 - Read Scipy Lecture notes chapters on [basic types](http://scipy-lectures.org/intro/language/basic_types.html), [control flow](http://scipy-lectures.org/intro/language/control_flow.html) and [functions](http://scipy-lectures.org/intro/language/functions.html)
 
 ## Lecture 2 (14 September 2023, 16:15 - 18:15, room Thot)
