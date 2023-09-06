@@ -48,7 +48,7 @@ to watch the other videos though, as they are highly interesting!
 - Solve [Linear Algebra Exercises Set](lessons/math/Exercises/Linear_Algebra_HW_set.pdf)
 - Start working on mini-project 1
 
-## Lecture 3 (21 October 2023, 16:15 - 18:15, room Thot)
+## Lecture 3 (21 September 2023, 16:15 - 18:15, room Thot)
 
 ### Content
 
@@ -61,7 +61,7 @@ to watch the other videos though, as they are highly interesting!
 - Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
 - Continue on mini-project 1
 
-## Lecture 4 (28 October 2023, 16:15 - 18:15, room Thot)
+## Lecture 4 (28 September 2023, 16:15 - 18:15, room Thot)
 
 ### Content
 
