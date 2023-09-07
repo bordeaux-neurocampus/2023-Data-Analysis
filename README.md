@@ -12,6 +12,8 @@ Courses will be taught in _English_.
 
 Welcome to the course!   
 
+You can acess the (restricted) Moodle Page here : 
+https://moodle.u-bordeaux.fr/course/view.php?id=664
 
 # Schedule
 
