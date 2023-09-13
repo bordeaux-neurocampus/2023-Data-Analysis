@@ -47,7 +47,7 @@ to watch the other videos though, as they are highly interesting!
 
 ### Homework
 
-- Solve [Linear Algebra Exercises Set](lessons/math/Exercises/Linear_Algebra_HW_set.pdf)
+- Solve [Linear Algebra Exercises Set](https://moodle.u-bordeaux.fr/pluginfile.php/583434/mod_folder/content/0/Linear_Algebra_HW_set.pdf)
 - Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
 - Start working on mini-project 1
 
