@@ -48,41 +48,46 @@ to watch the other videos though, as they are highly interesting!
 ### Homework
 
 - Solve [Linear Algebra Exercises Set](lessons/math/Exercises/Linear_Algebra_HW_set.pdf)
+- Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
 - Start working on mini-project 1
 
 ## Lecture 3 (21 September 2023, 16:15 - 18:15, room Thot)
 
 ### Content
 
+- Presentation of projects (1/2)
+  
 - Introduction to numerical computing (numpy)
-- Introduction to scientific computing (scipy)
-- Introduction to data visualization (matplotlib)
+- Introduction to signal processing
+
 
 ### Homework
 
-- Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
 - Continue on mini-project 1
 
 ## Lecture 4 (28 September 2023, 16:15 - 18:15, room Thot)
 
+
 ### Content
 
-- Introduction to signal processing
-- Introduction to spectral analysis
-- Presentation of projects
+- Presentation of projects (2/2)
 
-https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scrollTo=AInorI6xaKsa
+- Introduction to data visualization (matplotlib)
+- Introduction to scientific computing (scipy)
+- Introduction to Time-Frequency analysis
+ 
+
 
 ### Homework
 
-- Finish mini-project #1 and submit the completed notebook (via email)
+- Finish mini-project #1 and submit the completed notebook (via moodleremail)
 - Choose one of the presented projects and join a team (3 or 4 members)
 
 
 ## Lecture 5 (5 October 2023, 16:15 - 18:15,  room Thot)
 
 ### Content
-- Deadline project 1
+- Deadline mini-project #1
 - Final choice for group project 
 - Specific introduction for each project (grouped)
 
