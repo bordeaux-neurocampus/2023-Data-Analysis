@@ -37,7 +37,7 @@ https://moodle.u-bordeaux.fr/course/view.php?id=664
 - Linear Algebra
 - Vectors and matrices
 - Linear equations
-- Presentation of the mini-project 1
+- Presentation of the [mini-project](./projects/mini-project)
 
 We highly recommend you start your study on linear algebra by watching the 
 [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -49,7 +49,7 @@ to watch the other videos though, as they are highly interesting!
 
 - Solve [Linear Algebra Exercises Set](https://moodle.u-bordeaux.fr/pluginfile.php/583434/mod_folder/content/0/Linear_Algebra_HW_set.pdf)
 - Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
-- Start working on mini-project 1
+- Start working on the mini-project
 
 ## Lecture 3 (21 September 2023, 16:15 - 18:15, room Thot)
 
