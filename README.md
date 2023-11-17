@@ -115,7 +115,7 @@ to watch the other videos though, as they are highly interesting!
 ###Homework
 - Finalization of project, report and presentation
 
-## Defense day (21 November 2023, 14:00, room 55)
+## Defense day (21 November 2023, 14:00, room Thot)
 
 - Each group to present their work in front of a jury.  
   10 minutes presentations and 5-10 minutes questions
