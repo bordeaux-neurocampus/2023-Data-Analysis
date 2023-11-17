@@ -115,7 +115,17 @@ to watch the other videos though, as they are highly interesting!
 ###Homework
 - Finalization of project, report and presentation
 
-## Defense day (17 November 2023, 8:00-12:00, room 55 ??)
+## Defense day (21 November 2023, 14:00, room 55)
 
 - Each group to present their work in front of a jury.  
-  10 minutes presentations and 15 minutes questions
+  10 minutes presentations and 5-10 minutes questions
+
+  
+| Project/Team       | Time  | Names     |          |         |           |       |
+|--------------------|-------|-----------|----------|---------|-----------|-------|
+| fMRI task          | 14:00 | Sarah-2   | Ibtissam |         |           |       |
+| Songbird- 1        | 14:20 | Alexandre | Lucie    | Lou     | Sarah-1   |       |
+| Parkinson -2       | 14:40 | Francesca | Virginie | Morgane | Tanguy    |       |
+| fMRI resting state | 15:00 | Alicia    | Elisa    | Amelie  | Lea       |       |
+| Songbird -2        | 15:20 | Mels      | Eva      | Liubov  | Alexandro | Scott |
+| Parkinson -1       | 15:40 | Tatiana   | Anaelle  | Antoine | Nicolas   |       |
